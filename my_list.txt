@@ -1,0 +1,4 @@
+"Electrode"
+"Diglett"
+"Nidoran"
+"Mankey"
